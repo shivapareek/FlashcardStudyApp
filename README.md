@@ -64,7 +64,7 @@ This app solves these problems by providing a digital platform that organizes fl
 ## 🔗 Deployment
 
 - **Live Demo**: [Deployment Link Placeholder]
-- **GitHub Repository**: [GitHub Repo Link Placeholder]
+- **GitHub Repository**: https://github.com/shivapareek/FlashcardStudyApp
 
 ## 🛠️ Setup Instructions
 
@@ -77,7 +77,7 @@ This app solves these problems by providing a digital platform that organizes fl
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/shivapareek/FlashcardStudyApp]
    cd FlashcardStudyApp
    ```
 
@@ -304,9 +304,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@shivapareek](https://github.com/shivapareek)
+- Email: pareekshiva2004@gmail.com
 
 ## 🙏 Acknowledgments
 
